@@ -1,3 +1,11 @@
+a {
+  color: red;
+  padding: 15px 10px;
+}
+.App {
+  text-align: center;
+
+}
 .Post {
   text-align: center;
 }
